@@ -2,4 +2,5 @@ Name: Leangsiv
 School: Niptict
 Year: 03
 Major: Computer Science 
+Email: leangsiv23@gmail.com
 Conductor in GitHub course
